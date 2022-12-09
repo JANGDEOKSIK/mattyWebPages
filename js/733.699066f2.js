@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmatty_web"]=self["webpackChunkmatty_web"]||[]).push([[733],{1733:function(t,e,r){r.r(e),r.d(e,{default:function(){return c}});var a=function(){var t=this,e=t._self._c;return e("div",{attrs:{id:"bookPage"}},[e("div",{staticClass:"tab_btn"},[e("router-link",{attrs:{to:"/book/home"}},[t._v("홈")]),e("router-link",{attrs:{to:"/book/category"}},[t._v("카테고리")])],1),e("div",{staticClass:"tab_cont"},[e("router-view")],1)])},o=[],s={},n=s,u=r(1001),i=(0,u.Z)(n,a,o,!1,null,"3f0f73ec",null),c=i.exports}}]);
+//# sourceMappingURL=733.699066f2.js.map
